@@ -1,6 +1,6 @@
 # CsPbI3 ACE potential
 
-This repository contains the, datasets MLIP parameter files and some example scripts for using the linear ACE potential developed in "Dynamic Local Structure in Caesium Lead Iodide: Spatial Correlation and Transient Domains".
+This repository contains the datasets, MLIP parameter files and some example scripts for using the linear ACE potential developed for "Dynamic Local Structure in Caesium Lead Iodide: Spatial Correlation and Transient Domains".
 
 ## Datasets
 
