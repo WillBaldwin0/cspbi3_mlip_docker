@@ -12,8 +12,8 @@ read_data      start.data
 
 # -- potential
 
-variable acepath string a6train_N3D14_poly_pd8_rin2.32_iden_orthobrr.yace
-variable twobodypath string a6train_N3D14_poly_pd8_rin2.32_iden_orthobrr_pairpot.table
+variable acepath string mlip_potential_files/a6train_N3D14_poly_pd8_rin2.32_iden_orthobrr.yace
+variable twobodypath string mlip_potential_files/a6train_N3D14_poly_pd8_rin2.32_iden_orthobrr_pairpot.table
 
 pair_style      hybrid/overlay pace table linear 7901
 pair_coeff      * * pace ${acepath} I Cs Pb
